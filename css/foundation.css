@@ -14,10 +14,11 @@
 /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
 
 /* Sign in start */
+
 .sign-in-form {
   padding: 1rem 1.5em;
   border-radius: .5rem;
-  background-color: #000000;
+  background-color: #3d454f;
 }
 
 .sign-in-form h4 {
@@ -36,7 +37,7 @@
 }
 
 .sign-in-form input {
-  color: black;
+  color: white;
 }
 
 .sign-in-form input:focus {
@@ -53,8 +54,9 @@
 
 .sign-in-form-button {
   border-radius: 30px;
+  border: 1px solid #fff;
   color: #fff;
-  background-color: #200132;
+  background-color: transparent;
   text-transform: uppercase;
   letter-spacing: 1px;
   width: 100%;
@@ -63,8 +65,10 @@
 }
 
 .sign-in-form-button:hover {
-  background-color: #ab20fd;
+  background-color: #44c8ed;
+  border-color: #44c8ed;
 }
+
 /* Sign in end */
 
 html {
