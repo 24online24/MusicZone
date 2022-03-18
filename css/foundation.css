@@ -65,8 +65,8 @@
 }
 
 .sign-in-form-button:hover {
-  background-color: #44c8ed;
-  border-color: #44c8ed;
+  background-color: #ab20fd;
+  border-color: #ab20fd;
 }
 
 /* Sign in end */
@@ -3511,10 +3511,6 @@ select {
     text-decoration: none;
     display: block;
     padding: 0.7rem 1rem; }
-
-a {}
-
-a {}
   .menu input,
   .menu select,
   .menu a,
